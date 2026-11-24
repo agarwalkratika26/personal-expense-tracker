@@ -1,0 +1,21 @@
+date,description,amount,category,type,payment_method,notes
+2026-01-03,Corner grocery,42.75,Groceries,expense,Card,Weekly shopping
+2026-01-05,Monthly salary,2800,Income,income,Bank transfer,January pay
+2026-01-08,City transit pass,30,Transport,expense,Card,
+2026-01-11,Streaming subscription,12.99,Entertainment,expense,Card,
+2026-01-15,Neighborhood cafe,8.50,Food & Dining,expense,Cash,Coffee with a friend
+2026-01-18,Electric bill,67.20,Utilities,expense,Bank transfer,
+2026-02-02,Fresh market,56.10,Groceries,expense,Card,
+2026-02-05,Monthly salary,2800,Income,income,Bank transfer,February pay
+2026-02-07,Pharmacy,18.45,Healthcare,expense,Card,
+2026-02-10,Bookstore,24.99,Shopping,expense,Card,
+2026-02-14,Restaurant dinner,46.80,Food & Dining,expense,Card,Valentine dinner
+2026-02-18,Internet bill,49.99,Utilities,expense,Bank transfer,
+2026-03-01,Supermarket,63.25,Groceries,expense,Card,
+2026-03-05,Monthly salary,2800,Income,income,Bank transfer,March pay
+2026-03-09,Taxi ride,16.40,Transport,expense,Card,
+2026-03-12,Movie tickets,28,Entertainment,expense,Card,
+2026-03-16,Doctor visit,35,Healthcare,expense,Card,
+2026-03-20,Water bill,21.75,Utilities,expense,Bank transfer,
+2026-04-02,Local grocery,51.80,Groceries,expense,Card,
+2026-04-05,Monthly salary,2800,Income,income,Bank transfer,April pay

@@ -1,0 +1,10 @@
+﻿section,month,category,amount,budget,date,description,type,payment_method
+metadata,2026-05,Report Currency,INR,,,,,
+summary,2026-05,Total Income,0.0,,,,income,
+summary,2026-05,Total Expenses,79.91,,,,expense,
+summary,2026-05,Net Cash Flow,-79.91,,,,,
+summary,2026-05,Average Daily Spending,2.58,,,,expense,
+summary,2026-05,Highest Spending Category: Utilities,,,,,expense,
+category_budget,2026-05,Utilities,79.91,120.0,,Remaining: 40.09,expense,
+payment_method,2026-05,Bank transfer,79.91,,,,expense,Bank transfer
+transaction,2026-05,Utilities,79.91,,2026-05-30,Internet bill,expense,Bank transfer
