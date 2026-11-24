@@ -27,15 +27,49 @@ The application addresses financial privacy concerns by operating entirely withi
 
 ---
 
-## 3. Visualizations
+## 3. Application Screenshots and Visualizations
 
-The platform supports both interactive dashboard charts (rendered via Plotly) and static exploratory figures (rendered via Seaborn and Matplotlib).
+The platform features an interactive dashboard rendered with Streamlit and Plotly, as well as static publication figures generated with Seaborn and Matplotlib.
 
-### Static Exploratory Analysis
+### 3.1 Dashboard Overview and Monthly Budget Tracking
+
+The main dashboard provides high-level financial KPI cards (Total Spent, Total Income, Net Cash Flow, Transaction Count, Average Daily Spend, and Highest Spending Category) alongside monthly budget progress bars and overspending alerts.
+
+![Dashboard Overview](images/dashboard_overview.png)
+
+### 3.2 Interactive Analytics and Trend Visualizations
+
+Interactive Plotly charts display category-wise expenditure breakdowns and historical multi-month spending trends.
+
+![Category and Monthly Trends](images/category_and_monthly_charts.png)
+
+Payment method distribution donut charts and calendar-bounded daily spending timelines provide granular insights into payment preferences and daily burn rates.
+
+![Payment Mix and Daily Spending](images/payment_and_daily_charts.png)
+
+### 3.3 Transaction Management and Editing
+
+Users can search, inspect, update, and delete transactions. The editing interface preserves existing payment methods and categories when modifying other transaction attributes.
+
+![Transaction Management and Editing](images/transaction_ledger_editing.png)
+
+### 3.4 Category Budget Configuration
+
+Category spending targets can be configured and updated dynamically. When actual expenditures exceed the allocated limit, real-time warning indicators flag the overspending category.
+
+![Budget Configuration](images/budget_management.png)
+
+### 3.5 Monthly Statement Report Export
+
+A dedicated reporting engine compiles summary metrics, category totals, payment breakdowns, and itemized records into a downloadable CSV statement.
+
+![Monthly Report Export](images/monthly_report_export.png)
+
+### 3.6 Static Exploratory Data Analysis
+
+A four-panel exploratory figure generated using Seaborn and Matplotlib for offline coursework and report inclusion.
 
 ![Exploratory Spending Analysis](images/exploratory_spending_analysis.png)
-
-*Figure 1: Four-panel exploratory analysis showing category totals, monthly expenditure trend, payment method mix, and budget comparison.*
 
 ---
 
